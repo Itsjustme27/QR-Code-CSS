@@ -1,0 +1,46 @@
+body{
+    font: url(https://fonts.google.com/specimen/Outfit);
+    font-weight: 400, 700 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(184, 195, 255);
+}
+
+.container{
+    background-color: white;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 1);
+    border-radius: 20px;
+    height: 13cm;
+    width: 8cm;
+    margin: 80px 0 0 0;
+    padding: 10px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+
+}
+
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    font-size: small;
+}
+
+.content{
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;;
+    font-size: medium;
+    text-align: center;
+    padding: 10px;
+}
+
+.attribution{
+    margin: 30px 0 0 0;
+}

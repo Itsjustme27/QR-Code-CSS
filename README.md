@@ -2,7 +2,9 @@
 Coding challenge from Frontend Mentor | QR Component
 
 Desktop view:
-![Screenshot (96)](https://github.com/Itsjustme27/QR-Code-CSS/assets/122108318/0a0f8571-3c74-4f9c-992d-3a026d2f60ef)
+![Screenshot (98)](https://github.com/Itsjustme27/QR-Code-CSS/assets/122108318/76f05c4e-c432-4827-ad9a-6ac547f45573)
 
 Mobile view: 
-![Screenshot (97)](https://github.com/Itsjustme27/QR-Code-CSS/assets/122108318/ccc7b29f-9e49-4cc1-8e56-fee5f243073a)
+![Screenshot (99)](https://github.com/Itsjustme27/QR-Code-CSS/assets/122108318/f59df1c2-0cde-470f-bd14-dbcf0ec1c13f)
+
+
